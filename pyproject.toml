@@ -16,6 +16,8 @@ dependencies = [
     "duckduckgo-search>=7.3.0",
     "beautifulsoup4>=4.13.3",
     "jupyter>=1.1.1",
+    "langchain-qdrant>=0.2.0",
+    "jq>=1.8.0",
 ]
 
 [project.optional-dependencies]
